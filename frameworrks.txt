@@ -1,0 +1,12 @@
+frameworks utilizados 
+Para el front
+react-bootstrap
+axios
+toastify
+
+para el back
+microsoft.entityframeworkcore.tools
+microsoft.entityframeworkcore.sql
+microsoft.entityframeworkcore
+microsoft.aspnetcore.mvc.cors
+
